@@ -4,7 +4,7 @@ Script to migrate stories from VersionOne to JIRA
 
 Exports VersionOne data to a templated CSV that can then be easily imported into JIRA via their file import tool.
 
-Exports stories and all related tasks and tests.
+Exports provided stories and story-related tasks and tests.
 
 ```bash
 Usage: migrate.pl --name <file name> --user <user_name> --url <url_param> --type <type> --cards <number> <number> <number>
