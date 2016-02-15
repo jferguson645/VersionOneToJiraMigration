@@ -15,4 +15,4 @@ Usage: migrate.pl --name <file name> --user <user_name> --url <url_param> --type
     --cards             - space delimited list of cards to export (required)
 ```
 
-You will be prompted for your Version One password. 
+You will be prompted for the Version One password of the username you provided. 
