@@ -7,7 +7,7 @@ Exports VersionOne data to a templated CSV that can then be easily imported into
 Exports stories and all related tasks and tests.
 
 ```bash
-Usage: migrate.pl --name <file name> --user <user_name> --url <url_param> --type <type> --cards <number> <number> <number> ...
+Usage: migrate.pl --name <file name> --user <user_name> --url <url_param> --type <type> --cards <number> <number> <number>
     --name <file_name>  - added to csv file name for reference (optional)
     --user <user_name>  - Version One username (required)
     --url <url_param>   - Version One Company URL Parameter (required)
